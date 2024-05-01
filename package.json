@@ -39,7 +39,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "start-api": "cd api && npm start"
+    "start-api": "cd api && npm start",
+    "install-backend": "cd api && npm install",
+    "start-backend": "cd api && npm run dev"
   },
   "eslintConfig": {
     "extends": [
